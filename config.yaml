@@ -1,0 +1,19 @@
+# Database settings test
+database:
+  host: 3dexperience.3ds.com
+  port: 3306
+  username: root
+  password: password123
+  dbname: mydatabase
+
+# Server settings
+server:
+  host: 0.0.0.0
+  port: 8080
+  debug: true
+
+# Email settings
+email:
+  provider: gmail
+  username: example@email.com
+  password: emailpassword123
